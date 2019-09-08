@@ -11,7 +11,7 @@ itÂ´s my first time with GIT. I try to understand how it works. In the Moment IÂ
 - [try git page](https://try.github.io/)
 - [learning git branching interactively](https://learngitbranching.js.org/)
 - [undoing changes in git](https://www.atlassian.com/git/tutorials/undoing-changes)
-- [git lesson from the carpentries](http://swcarpentry.github.io/git-novice/)c
+- [git lesson from the carpentries](http://swcarpentry.github.io/git-novice/)
 
 ## How Tos
 
